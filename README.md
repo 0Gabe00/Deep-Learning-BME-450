@@ -1,5 +1,5 @@
 # Title
-  "ADHD Detection from Brain MRI Using Deep Learning"
+  ADHD Detection from Brain MRI with Deep Learning
 ## Team Members
   Gabriel Montoya (0Gabe00)
 ### Project Description
